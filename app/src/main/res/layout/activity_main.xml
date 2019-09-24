@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity" android:orientation="vertical">
+    <Button
+            android:text="HELLO01"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/button1"/>
+    <Button
+            android:text="EVENT02"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/button2"/>
+    <Button
+            android:text="EVENTWORK03"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/button3"/>
+    <Button
+            android:text="CALC04"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/button4"/>
+    <Button
+            android:text="CALCWORK05"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/button5"/>
+    <Button
+            android:text="LIST06"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/button6"/>
+</LinearLayout>
